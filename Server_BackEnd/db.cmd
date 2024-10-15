@@ -1,0 +1,1 @@
+psql -h arjuna.db.elephantsql.com -p 5432 -U gqqrwaic -W gqqrwaic

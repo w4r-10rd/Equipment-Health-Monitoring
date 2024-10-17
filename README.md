@@ -84,6 +84,6 @@ Here are some screenshots of the application:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-**Ritesh Nandy**
-- GitHub: [RiteshhGitH](https://github.com/RiteshhGitH)
-- Email: [ritesh.nandyofficial@gmail.com](mailto:ritesh.nandyofficial@gmail.com)
+**Arijit Nath**
+- GitHub: [w4r-10rd](https://github.com/w4r-10rd)
+- Email: [w4r10rd.opensource@gmail.com](mailto:w4r10rd.opensource@gmail.com)
